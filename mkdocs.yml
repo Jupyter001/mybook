@@ -39,9 +39,9 @@ nav:
   - 博客:
     - BLOG/index.md
     - BLOG/others.md
-    - Apple:
-      - BLOG/Apple/mac-recommend.md
-      - BLOG/Apple/ipad-recommend.md
+    ##- Apple:
+     ## - BLOG/Apple/mac-recommend.md
+      ##- BLOG/Apple/ipad-recommend.md
     - macOS:
       - BLOG/macOS/tree.md
       - BLOG/macOS/zoom.md
@@ -224,19 +224,19 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/Jupyter/mybook.github.io # 右上角点击跳转的链接
-repo_name: Jupyter001.github.io # 右上角的名字
+repo_url: https://github.com/Jupyter001/ # 右上角点击跳转的链接
+repo_name: Jupyter001 # 右上角的名字
 ## [bottom-left corner]
 
 ## [bottom-right corner]
 extra:
   social: # icons
     - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
-      name: Bilibili | 杨希杰619 # 鼠标悬浮提示
+      link: https://space.bilibili.com/280692960
+      name: Bilibili | 谢尔顿_ # 鼠标悬浮提示
     - icon: fontawesome/brands/github
-      link: https://github.com/Yang-Xijie
-      name: GitHub | Yang-Xijie
+      link: https://github.com/Jupyter001
+      name: GitHub | Jupyter001
 
 # [Extensions]
 plugins:
