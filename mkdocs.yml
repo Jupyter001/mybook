@@ -42,6 +42,8 @@ nav:
     ##- Apple:
      ## - BLOG/Apple/mac-recommend.md
       ##- BLOG/Apple/ipad-recommend.md
+    - C++:
+      -Jupyter/cpp/cpp.md
     - macOS:
       - BLOG/macOS/tree.md
       - BLOG/macOS/zoom.md
